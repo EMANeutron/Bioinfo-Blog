@@ -128,7 +128,6 @@ conda list r-base
 R -e "IRkernel::installspec(user = TRUE, name = 'conda_env_r', displayname = 'R_conda_env')"
 ```
 
----
 
 ---
 
