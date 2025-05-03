@@ -1,4 +1,4 @@
-# 🧪 Fixing Jupyter Kernels in Conda Environments with Python and R
+# Fixing Jupyter Kernel Issues for Python and R in HPC Cluster Environment
 
 
 ## 🧩 Introduction
