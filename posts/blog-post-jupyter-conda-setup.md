@@ -1,5 +1,6 @@
 # 🧪 Fixing Jupyter Kernels in Conda Environments with Python and R
 
+
 ## 🧩 Introduction
 
 When working with Jupyter notebooks in a cluster environment, managing Conda environments and registering Python and R kernels can be tricky. Here's a practical guide based on my experience solving kernel conflicts and making both Python and R work seamlessly.
